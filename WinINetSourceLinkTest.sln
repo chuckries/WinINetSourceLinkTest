@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinINetSourceLinkTest", "WinINetSourceLinkTest\WinINetSourceLinkTest.csproj", "{F5FB2244-E7FB-4ECD-B504-1FFD31F725CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FB2244-E7FB-4ECD-B504-1FFD31F725CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FB2244-E7FB-4ECD-B504-1FFD31F725CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FB2244-E7FB-4ECD-B504-1FFD31F725CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FB2244-E7FB-4ECD-B504-1FFD31F725CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22355C4E-5239-4D3F-B215-69F82410B95D}
+	EndGlobalSection
+EndGlobal
